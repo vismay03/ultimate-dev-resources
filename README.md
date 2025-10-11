@@ -1,4 +1,4 @@
-# 🌐 Awesome Dev Resources
+# 🌐 Ultimate Dev Resources
 
 Curated, high-signal resources for developers. Kicking off with **ShadCN UI**, expanding soon to **AI**, **Web Development**, **Machine Learning**, and more.
 
@@ -15,7 +15,7 @@ Curated, high-signal resources for developers. Kicking off with **ShadCN UI**, e
 ## 🗂️ What's Inside
 
 ```text
-awesome-dev-resources/
+ultimate-dev-resources/
 ├─ AI/                      # Coming soon
 ├─ WebDev/
 │  ├─ README.md
