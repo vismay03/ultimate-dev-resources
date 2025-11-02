@@ -10,6 +10,7 @@ Curated, high-signal resources for developers. Kicking off with **ShadCN UI**, e
 
 ## 📁 Explore
 
+- [React Components](./WebDev/React/Components.md)
 - [ShadCN Components](./WebDev/ShadCN/Components.md)
 
 ## 🗂️ What's Inside
@@ -22,6 +23,9 @@ ultimate-dev-resources/
 │  └─ ShadCN/
 │     ├─ README.md
 │     └─ Components.md     # Curated ShadCN components & references
+│  └─ React/
+│     ├─ README.md
+│     └─ Components.md     # Curated React components & references
 ├─ CONTRIBUTING.md         # How to contribute
 └─ README.md               # You are here
 ```
